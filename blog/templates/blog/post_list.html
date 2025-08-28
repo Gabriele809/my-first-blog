@@ -26,8 +26,8 @@
             <p>Mettere tutto insieme e far funzionare tutto.</p>
         </article>
 
-        <article>
-        {{ posts }}
-        </article>
+        {% for post in posts %}
+            {{ post }}
+        {% endfor %}
     </body>
 </html>
