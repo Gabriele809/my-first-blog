@@ -18,7 +18,7 @@ h1,
 h2,
 h3,
 h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 .date {
@@ -59,13 +59,13 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #C25100;
+    color: #9426CD;
     background: none;
-    border-color: #C25100;
+    border-color: #9426CD;
     margin-left: 15px;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #9426CD;
 }
